@@ -1,4 +1,4 @@
 # StockMarketEvolution
 This project introduces a network perspective of the stock market evolution. The Stock Market is a system that evolves over time and it is influenced by many different factors. Several approaches have been used to predict its trend but it is still a very hard task. This research-oriented project aims at analyzing the evolution of the stock market from a network perspective, researching for interesting trends and interactions of stocks over the analyzed period of time. The S&P 500 index has been analyzed by looking at interactions between stocks and a new clustering over time approach is presented. Further measures regarding interaction between sectors and the influence of stocks have been measured and commented on as well as other network metrics.
 
-Complete Report[here](https://github.com/albertolatino/StockMarketEvolution/blob/main/Stock%20Market%20Evolution%20-%20A%20Network%20Perspective.pdf)!
+Complete Report [here](https://github.com/albertolatino/StockMarketEvolution/blob/main/Stock%20Market%20Evolution%20-%20A%20Network%20Perspective.pdf)!
